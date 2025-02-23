@@ -205,43 +205,10 @@ New challenges keep me energized, and I'm always ready to tackle them.
 </p>
 <hr>
 
-### 🧰 Frameworks and libraries
-
-<p>
-      <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-      <a href="#"><img alt="React" src="https://img.shields.io/badge/Redux-20232a.svg?logo=redux&logoColor=%2361DAFB"></a>
-      <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-      <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Tailwind-404d59.svg?logo=tailwind&logoColor=white"></a>
-      <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
-      <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
-      <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Seaborn-150458.svg?logo=seaborn&logoColor=white"></a>
-      <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
-</p>
-
-### 🗄️ Databases and Cloud Hosting
-
-<p>
-    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
-    <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white"></a>
-</p>
-
-### 💻 Software and tools
-
-<p>
-    <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
-
-</p>
-
 ---
 
 <h1 align="center">📊Github Stats⚡</h1>
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shanee-patel&theme=algolia) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shanee-patel&theme=algolia) |
-| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                           <img  width="450em"   src="https://streak-stats.demolab.com?user=shanee-patel&theme=vue-dark" alt="exbucks Streak" />                                           |  <img width="450em" align="center" alt="exbucks's Github stats"  src="https://github-readme-stats.vercel.app/api?username=shanee-patel&show_icons=true&count_private=true&theme=vue-dark" />   |
+                                       <img  width="450em"   src="https://streak-stats.demolab.com?user=shanee-patel&theme=vue-dark" alt="exbucks Streak" />                                           |  <img width="450em" align="center" alt="exbucks's Github stats"  src="https://github-readme-stats.vercel.app/api?username=shanee-patel&show_icons=true&count_private=true&theme=vue-dark" />   |
 
 <br/>
