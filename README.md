@@ -1,5 +1,5 @@
 
-<h1 align="center"><bold>Barbara, a talented female developer from Albania! </bold></h1>
+<h1 align="center"><bold>A talented female developer from Albania! </bold></h1>
 
 I am a Software Engineer . I love Programming, reading, writing and speaking.
 
