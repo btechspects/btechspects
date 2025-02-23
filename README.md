@@ -204,11 +204,3 @@ New challenges keep me energized, and I'm always ready to tackle them.
 </table>
 </p>
 <hr>
-
----
-
-<h1 align="center">📊Github Stats⚡</h1>
-
-                                       <img  width="450em"   src="https://streak-stats.demolab.com?user=shanee-patel&theme=vue-dark" alt="exbucks Streak" />                                           |  <img width="450em" align="center" alt="exbucks's Github stats"  src="https://github-readme-stats.vercel.app/api?username=shanee-patel&show_icons=true&count_private=true&theme=vue-dark" />   |
-
-<br/>
