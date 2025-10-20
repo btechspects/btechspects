@@ -15,8 +15,8 @@ New challenges keep me energized, and I'm always ready to tackle them.
 
 ### Talking about Personal Stuff:
 
-- 👨‍🎓 I'm a **Software Engineering Student**
-- 🔭 I’m currently working on Frontend platform
+- 👨‍🎓 I'm a **Software Engineering **
+- 🔭 I’m currently working on Fullstack  platform
 - 👨‍🏫 I'm the **Community Leader** at Ghost Coder
 - 💬 Ask me about anything, I am happy to help
 - 🌱 I'm currently learning: DSA and Backend
